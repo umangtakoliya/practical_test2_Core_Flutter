@@ -1,16 +1,2 @@
-# umang
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230701_133256](https://github.com/umangtakoliya/practical_test2_Core_Flutter/assets/138286678/a28c499b-c2f6-4dad-a709-0fcb2f1ace7c)
+![Screenshot_20230701_133239](https://github.com/umangtakoliya/practical_test2_Core_Flutter/assets/138286678/049051fd-527b-4d26-90b6-b032560972d1)
